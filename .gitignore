@@ -1,0 +1,4 @@
+.DS_STORE
+.idea
+backend/backend-evacuation/src/main/resources/privateKey.json
+frontend_user/evacuation-assistant/ios/App/App/GoogleService-Info.plist

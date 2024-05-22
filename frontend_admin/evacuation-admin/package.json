@@ -1,0 +1,53 @@
+{
+  "name": "evacuation-admin",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "test:unit": "vue-cli-service test:unit",
+    "test:e2e": "vue-cli-service test:e2e",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "@capacitor/app": "latest",
+    "@capacitor/core": "latest",
+    "@capacitor/haptics": "latest",
+    "@capacitor/ios": "latest",
+    "@capacitor/keyboard": "latest",
+    "@capacitor/preferences": "latest",
+    "@capacitor/status-bar": "latest",
+    "@ionic/vue": "latest",
+    "@ionic/vue-router": "latest",
+    "@vuelidate/core": "latest",
+    "@vuelidate/validators": "latest",
+    "core-js": "latest",
+    "ionicons": "latest",
+    "vue": "latest",
+    "vue-router": "latest"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "latest",
+    "@types/jest": "latest",
+    "@typescript-eslint/eslint-plugin": "latest",
+    "@typescript-eslint/parser": "latest",
+    "@vue/cli-plugin-babel": "latest",
+    "@vue/cli-plugin-e2e-cypress": "latest",
+    "@vue/cli-plugin-eslint": "latest",
+    "@vue/cli-plugin-router": "latest",
+    "@vue/cli-plugin-typescript": "latest",
+    "@vue/cli-plugin-unit-jest": "latest",
+    "@vue/cli-service": "latest",
+    "@vue/eslint-config-typescript": "latest",
+    "@vue/test-utils": "latest",
+    "@vue/vue3-jest": "latest",
+    "babel-jest": "latest",
+    "cypress": "10.3.0",
+    "eslint": "latest",
+    "eslint-plugin-vue": "latest",
+    "jest": "latest",
+    "ts-jest": "latest",
+    "typescript": "latest"
+  },
+  "description": "An Ionic project"
+}

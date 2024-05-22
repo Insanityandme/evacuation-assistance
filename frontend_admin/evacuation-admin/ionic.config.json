@@ -1,0 +1,7 @@
+{
+  "name": "evacuation-admin",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Evacuation Assistant",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
