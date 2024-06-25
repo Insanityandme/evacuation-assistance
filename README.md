@@ -267,8 +267,8 @@ func application(_ application: UIApplication, didFailToRegisterForRemoteNotific
 <img src="https://github.com/Insanityandme/evacuation-assistance/assets/1380257/84fb1b25-6c94-42bb-8526-926c650bbb08" width="250px" height="500px"/>
 <img src="https://github.com/Insanityandme/evacuation-assistance/assets/1380257/30177b4c-ff50-47e8-bd61-1bd78942a82c" width="250px" height="500px"/>
 <img src="https://github.com/Insanityandme/evacuation-assistance/assets/1380257/8760e4cf-919f-44e3-b75c-76a65c8c4bea" width="250px" height="500px"/>
-<img src="(https://github.com/Insanityandme/evacuation-assistance/assets/1380257/bf4d0006-3e01-4681-8dc0-dea85f01e3b9" width="250px" height="500px"/>
-<img src="(https://github.com/Insanityandme/evacuation-assistance/assets/1380257/a3504e28-0ea2-4f16-a84f-78ce1d4c602b" width="250px" height="500px"/>
+<img src="https://github.com/Insanityandme/evacuation-assistance/assets/1380257/bf4d0006-3e01-4681-8dc0-dea85f01e3b9" width="250px" height="500px"/>
+<img src="https://github.com/Insanityandme/evacuation-assistance/assets/1380257/a3504e28-0ea2-4f16-a84f-78ce1d4c602b" width="250px" height="500px"/>
 <img src="https://github.com/Insanityandme/evacuation-assistance/assets/1380257/b842484f-e17c-4b08-9c51-c5befe88df8b" width="250px" height="500px"/>
 
 ---
